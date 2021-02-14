@@ -1,13 +1,13 @@
 # AirBNB-Boston
 ## Installation
-In order to use the code included in this repository, the user has to install the following Python libraries:
-numpy
-pandas
-matplotlib.pyplot
-sklearn
-seaborn
-statsmodels.api
-plotly
+In order to use the code included in this repository, the user has to install the following Python libraries: \n
+numpy \n
+pandas \n
+matplotlib.pyplot \n
+sklearn \n
+seaborn \n
+statsmodels.api \n
+plotly \n
 
 ## Project Motivation
 For this project I was interested in analizing the airbnb dataset of Boston.
